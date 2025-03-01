@@ -6,7 +6,7 @@ A simple Chrome extension that changes the background color of the webpage.
 
 1. **Clone the Repository:**
    ```sh
-   git clone [<your-github-repo-link>](https://github.com/priyansh-narang2308/Background-Change-Chrome-Extension.git)
+   git clone (https://github.com/priyansh-narang2308/Background-Change-Chrome-Extension.git)
    ```
 2. **Go to Chrome Extensions Page:**
    - Open Chrome and visit `chrome://extensions/`
